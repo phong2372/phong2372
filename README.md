@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @phong2372
-- 👀 I’m interested in custom hardware design
-- 🌱 I’m currently learning c#, hdl
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Phong
+- 👀 I’m interested in developing new technologies on hardware, implementing software technologies on hardware.
+- 🌱 I’m currently learning RTL code, C++, C#
+- 💞️ I'm looking to collaborate on hardware design, layout design.
+- 📫 Contact me via gmail m.a.p.2372.pam@gmail.com
 
 <!---
 phong2372/phong2372 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
